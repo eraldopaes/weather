@@ -1,0 +1,5 @@
+nasa:
+  api:
+    base-url: https://api.nasa.gov/
+    path: insight_weather/
+    api-key: ${NASA_API_KEY}
